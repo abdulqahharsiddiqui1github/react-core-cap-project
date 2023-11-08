@@ -1,0 +1,64 @@
+[
+    {
+      "id": 1,
+      "cover": "book1.jpg",
+      "title": "The Adventure of a Lifetime",
+      "author": "John Smith",
+      "author-img": "author1.jpg",
+      "posted-date": "2023-11-08",
+      "reading-time": 45,
+      "hashtags": [
+        "adventure",
+       "bestseller"
+    ]
+    },
+    {
+      "id": 2,
+      "cover": "book2.jpg",
+      "title": "Cooking with Passion",
+      "author": "Emily Johnson",
+      "author-img": "author2.jpg",
+      "posted-date": "2023-11-09",
+      "reading-time": 30,
+      "hashtags": [
+        "cooking", 
+        "foodie"]
+    },
+    {
+      "id": 3,
+      "cover": "book3.jpg",
+      "title": "The Art of Coding",
+      "author": "David Anderson",
+      "author-img": "author3.jpg",
+      "posted-date": "2023-11-10",
+      "reading-time": 60,
+      "hashtags": [
+        "programming",
+       "technology"]
+    },
+    {
+      "id": 4,
+      "cover": "book4.jpg",
+      "title": "Travel Diaries",
+      "author": "Sarah Brown",
+      "author-img": "author4.jpg",
+      "posted-date": "2023-11-11",
+      "reading-time": 40,
+      "hashtags": 
+      ["travel",
+      "wanderlust"]
+    },
+    {
+      "id": 5,
+      "cover": "book5.jpg",
+      "title": "Health and Wellness Guide",
+      "author": "Michael Davis",
+      "author-img": "author5.jpg",
+      "posted-date": "2023-11-12",
+      "reading-time": 50,
+      "hashtags": [
+        "health", 
+      "fitness"]
+    }
+  ]
+  
