@@ -1,64 +1,60 @@
 [
     {
       "id": 1,
-      "cover": "book1.jpg",
-      "title": "The Adventure of a Lifetime",
-      "author": "John Smith",
-      "author-img": "author1.jpg",
-      "posted-date": "2023-11-08",
-      "reading-time": 45,
+      "cover": "../src/assets/1.jpg",
+      "author_img": "../src/assets/boy1.png",
+      "author": "John Doe",
+      "post_date": "2023-11-08 10:30:00",
+      "read_time": 5,
+      "title": "Lorem Ipsum Dolor Sit Amet",
       "hashtags": [
-        "adventure",
-       "bestseller"
-    ]
+        "#Lorem", 
+        "#Ipsum", 
+        "#Dolor"
+      ]
     },
     {
       "id": 2,
-      "cover": "book2.jpg",
-      "title": "Cooking with Passion",
-      "author": "Emily Johnson",
-      "author-img": "author2.jpg",
-      "posted-date": "2023-11-09",
-      "reading-time": 30,
+      "cover": "../src/assets/2.png",
+      "author_img": "../src/assets/boy2.png",
+      "author": "Jane",
+      "post_date": "2023-11-08 16:45:00",
+      "read_time": 8,
+      "title": "Consectetur Adipiscing Elit",
       "hashtags": [
-        "cooking", 
-        "foodie"]
+        "#Consectetur", 
+        "#Adipiscing", 
+        "#Elit"
+      ]
     },
     {
       "id": 3,
-      "cover": "book3.jpg",
-      "title": "The Art of Coding",
-      "author": "David Anderson",
-      "author-img": "author3.jpg",
-      "posted-date": "2023-11-10",
-      "reading-time": 60,
+      "cover": "../src/assets/3.png",
+      "author_img": "../src/assets/girl1.jpg",
+      "author": "Alice Johnson",
+      "post_date": "2023-11-08 16:45:00",
+      "read_time": 6,
+      "title": "Sed Do Eiusmod Tempor",
       "hashtags": [
-        "programming",
-       "technology"]
+        "#Sed", 
+        "#Eiusmod", 
+        "#Tempor"
+      ]
+
     },
     {
       "id": 4,
-      "cover": "book4.jpg",
-      "title": "Travel Diaries",
-      "author": "Sarah Brown",
-      "author-img": "author4.jpg",
-      "posted-date": "2023-11-11",
-      "reading-time": 40,
-      "hashtags": 
-      ["travel",
-      "wanderlust"]
-    },
-    {
-      "id": 5,
-      "cover": "book5.jpg",
-      "title": "Health and Wellness Guide",
-      "author": "Michael Davis",
-      "author-img": "author5.jpg",
-      "posted-date": "2023-11-12",
-      "reading-time": 50,
+      "cover": "../src/assets/4.jpg",
+      "author_img": "../src/assets/girl2.jpg",
+      "author": "Robert Brown",
+      "post_date": "2023-11-08 09:20:00",
+      "read_time": 7 ,
+      "title": "Incididunt Ut Labore Et",
       "hashtags": [
-        "health", 
-      "fitness"]
+        "#Incididunt", 
+        "#Ut", 
+        "#Labore"
+      ]
     }
   ]
   
